@@ -29,32 +29,6 @@ A production-ready backend API built with Node.js, Express.js, and MongoDB, foll
 
 🧪 Easy to extend & scale for production
 
-📂 Current Folder Structure
-project-root/
-│
-├── node_modules/
-├── public/
-│   └── temp/
-│       └── .gitkeep
-├── src/
-│   ├── controllers/
-│   ├── db/
-│   ├── middlewares/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   ├── app.js
-│   ├── constants.js
-│   └── index.js
-│
-├── .env
-├── .gitignore
-├── .prettierignore
-├── .prettierrc
-├── package.json
-├── package-lock.json
-└── README.md
-
 # Summary of this project
 
 This project is a complex backend project that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, and many more. This project is a complete backend project that has all the features that a backend project should have.
